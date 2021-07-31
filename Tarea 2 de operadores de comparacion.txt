@@ -1,0 +1,17 @@
+bucles FOR
+
+exta exprecion se utiliza para evaluar muchas veces o las veces que le indiquemos hasta que encuentre lo que estabamos
+buscando. por ejemplo...for(let i=0; i<10; i++){}; ahi estoy diciendo que i es igual a 0 y estonces la variable i se va a 
+repetir hasta 10 veces. tambien se pueden evaluar infinitamente pero no es recomendable hacerlo por la razon que se puede
+tildar el navegador o la compu.
+
+&&= esto se utiliza para agregar otra comparacion por ejemplo: if(10===10 && 9<10) ahi estoy haciendo dos comparaciones dentro
+de un if
+
+||= se utiliza para casi lo mismo que la comparacion &&, pero las dos barritas || tienen una diferencia que cuando
+se usa un if y se ponen las || el if necesitara de un solo true/verdadero para que funcione, en el caso de las && si una es
+false y la otra es verdadero no se ejecutara la funcion if
+
+! = El operador (Signo de Exclamacion) tiene varias formas de uso, por ejemplo, si ponemos ( != ), estamos preguntando
+si algo es diferente a los otro, otro ejemplo, si ponemos el signo junto con el valor nos va a retornar el resultado
+contrario de lo que nosotros le preguntamos,

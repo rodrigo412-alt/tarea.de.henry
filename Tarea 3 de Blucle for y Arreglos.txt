@@ -1,0 +1,2 @@
+array: es como un contenedor para poder guardar varios datos para despues poder verlos en una forma organizadas,
+tambien se pueden guardar lo que seria objectos.

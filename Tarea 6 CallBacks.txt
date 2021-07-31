@@ -1,0 +1,1 @@
+function callbacks: esto sirve para usar una funcion como objeto y pasarla a otra funcion.

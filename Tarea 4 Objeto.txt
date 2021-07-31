@@ -1,0 +1,16 @@
+Objeto: un objeto en javaScript es una coleccion de datos relacionados, seria algo semilar que un arreglo.
+
+Propiedad: la propiedad dentro del objecto seria como el nombre de lo que haya adentro. dejare un ejemplo de que parte
+me refiero.
+
+var prueba = { PROPIEDAD: 'nombre'; };
+esa es la posicion de la propiedad ('PROPIEDAD').
+
+Metodos: los metodos son las funciones que nosotros guardamos para despues poder reutilizarlas, esos son los metodos.
+
+bucle FOR: El bucle for es una exprecion que se evalua una y otra vez hasta nos devuelve lo que le pedimos que haga.
+
+"Notacion de puntos" y "Notacion de corchetes": ambas sirven para entrar a una propiedad de un objecto.
+con notacion de puntos entramos a la propiedad de esta forma: nombreDelObjecto.propiedad
+con notacion de corches entramos de esta forma: nombreDelObjecto["Propiedad"]
+

@@ -1,0 +1,9 @@
+prototype: el prototype es como como un metodo que se crea para que herede argumentos y prepiedades de una function,
+seria como un objecto plantilla para heredar metodos y propiedades.
+
+constructor: el contructor seria como una function que tiene varios argumentos y que dentro esa funcion decimos
+declaramos las propiedades como enlazando con los argumentos de la funcion.
+Esto se utilizario para no estar armando funciones nuevas.
+
+
+algo asi entendí

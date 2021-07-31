@@ -1,0 +1,13 @@
+Variable: Una variable es elemento donde se pueden guardar funciones, valores, etc.
+
+string: string es una cadena cadena de texto, es decir, es texto, parrafo, nombres, etc.
+
+funciones y argumentos:
+
+Funcion: es un conjunto de instruciones donde se le dice que es lo que tiene que hacer o sirve para calcular un vaolor.
+Argumento: el argumento son la indicaciones que van dentro de la funcion
+Return: Return es lo que pones al final de una funcion para que nos pueda devolver el resultado de la funcion que habiamos creado en javaScript.
+
+Declaracion if: La declaracion if sirve para comprobar datos por ejemplo, si 2 es mayor que 1, o para saber sin un resultado de una funcion es verdadero o  falso.
+
+Booleanos: los valores booleanos son los  elemento que sean verdadero o falso, osea si una funcion es verdadero o falso es booleano.
